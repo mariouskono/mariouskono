@@ -1,14 +1,89 @@
-<h1 align="center">Hi 👋, I'm Uno</h1>
-<h3 align="center">A passionate chill Machine Learning Engineer from Indonesia</h3>
+# 👋 Hi, I'm Bertnardo Mario Uskono
 
-- 🌱 I’m currently learning **Computer Vision and AI**
+## 🧠 Machine Learning Engineer | Data Science Enthusiast | Web Developer
 
-- 📫 How to reach me **bertnardouskono@gmail.com**
+Halo! Saya mahasiswa Informatika di Universitas Bhayangkara Jakarta Raya, dengan minat mendalam di bidang **Machine Learning**, **Data Science**, dan **Web Development**. Saya aktif mengerjakan proyek-proyek yang menggabungkan teknologi AI dengan aplikasi dunia nyata.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bertnardo-mario-uskono" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bertnardo-mario-uskono" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🚀 Capstone Project: NusaBali
+
+🔗 [Lihat Website](https://tiny-faun-d9a27c.netlify.app/)  
+🔗 [Lihat Repositori](https://github.com/mariouskono/nusabali)
+
+**NusaBali** adalah platform berbasis web yang memberikan rekomendasi destinasi wisata di Bali berdasarkan minat pengguna. Dibangun menggunakan machine learning dan integrasi dengan Google Maps untuk navigasi.
+
+---
+
+## 🧰 Proyek Lainnya
+
+Berikut adalah beberapa proyek yang telah saya kerjakan:
+
+- **[NusabaliFix](https://github.com/mariouskono/nusabalifix)**  
+  Perbaikan dan pembaruan dari proyek NusaBali, dengan peningkatan fitur dan antarmuka pengguna.
+
+- **[Scraping Tempat Wisata Indonesia](https://github.com/mariouskono/scraping-tempat-wisata-indonesia)**  
+  Proyek untuk mengumpulkan data destinasi wisata di Indonesia melalui teknik web scraping.
+
+- **[Backend Nusabali](https://github.com/mariouskono/backend-nusabali)**  
+  Pengembangan backend untuk platform NusaBali, termasuk API dan integrasi dengan database.
+
+- **[Rekomendasi Destinasi Wisata di Bali](https://github.com/mariouskono/Rekomendasi-Destinasi-Wisata-di-Bali)**  
+  Analisis dan pembuatan model rekomendasi destinasi wisata di Bali menggunakan teknik machine learning.
+
+- **[Analisis Sentimen OVO](https://github.com/mariouskono/analisis-sentimen-ovo)**  
+  Analisis sentimen dari ulasan pengguna aplikasi OVO untuk memahami persepsi pengguna.
+
+- **[Notebook Income](https://github.com/mariouskono/notebook-income)**  
+  Proyek analisis data untuk mempelajari pola pendapatan dan pengeluaran.
+
+- **[Bike Rental Analisis](https://github.com/mariouskono/bike-rental-analisis)**  
+  Analisis data sewa sepeda untuk memahami tren dan pola penggunaan.
+
+- **[Volunteer Buat Aplikasi](https://github.com/mariouskono/volunteer-buat-apliaksi)**  
+  Proyek pengembangan aplikasi untuk mendukung kegiatan sukarelawan.
+
+- **[Artikel Pemrograman Web](https://github.com/mariouskono/artikelpemrogramanweb)**  
+  Kumpulan artikel dan tutorial mengenai pemrograman web.
+
+- **[Tugas Praktikum](https://github.com/mariouskono/tugaspraktikum)**  
+  Kumpulan tugas praktikum dari berbagai mata kuliah di bidang teknologi informasi.
+
+---
+
+## 🛠️ Teknologi & Keahlian
+
+**Bahasa Pemrograman & Frameworks:**
+
+![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![D3.js](https://skillicons.dev/icons?i=d3js)
+
+**Data Science & Machine Learning:**
+
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![PyTorch](https://skillicons.dev/icons?i=pytorch) ![Scikit-learn](https://skillicons.dev/icons?i=scikit) ![Pandas](https://skillicons.dev/icons?i=pandas) ![Seaborn](https://skillicons.dev/icons?i=seaborn)
+
+**Database & Tools:**
+
+![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
+
+**Automasi & Testing:**
+
+![Selenium](https://skillicons.dev/icons?i=selenium) ![Jupyter](https://skillicons.dev/icons?i=jupyter)
+
+---
+
+## 📈 Statistik GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariouskono&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mariouskono&theme=radical)
+
+---
+
+## 📬 Hubungi Saya
+
+- 📧 Email: [bertnardouskono@gmail.com](mailto:bertnardouskono@gmail.com)  
+- 🌐 Website: [portounoweb.netlify.app](https://portounoweb.netlify.app/)  
+- 👨‍💻 LinkedIn: [linkedin.com/in/bertnardomario-uskono](https://www.linkedin.com/in/bertnardomario-uskono)  
+- 📊 Kaggle: [kaggle.com/bertnardomariouskono](https://www.kaggle.com/bertnardomariouskono)
+
+---
