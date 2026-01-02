@@ -1,89 +1,65 @@
-# 👋 Hi, I'm Bertnardo Mario Uskono
+# Hi there, I'm Bertnardo Mario Uskono! 👋
 
-## 🧠 Machine Learning Engineer | Data Science Enthusiast | Web Developer
+## Machine Learning Engineer | Data Science Researcher | AI Enthusiast
 
-Halo! Saya mahasiswa Informatika di Universitas Bhayangkara Jakarta Raya, dengan minat mendalam di bidang **Machine Learning**, **Data Science**, dan **Web Development**. Saya aktif mengerjakan proyek-proyek yang menggabungkan teknologi AI dengan aplikasi dunia nyata.
+I am a highly motivated 7th-semester Computer Science student at **Universitas Bhayangkara Jakarta Raya**, specializing in **Data Science**. With a solid academic foundation (GPA: 3.84/4.00), I focus on leveraging Artificial Intelligence to create innovative, data-driven solutions for real-world challenges.
 
----
-
-## 🚀 Capstone Project: NusaBali
-
-🔗 [Lihat Website](https://tiny-faun-d9a27c.netlify.app/)  
-🔗 [Lihat Repositori](https://github.com/mariouskono/nusabali)
-
-**NusaBali** adalah platform berbasis web yang memberikan rekomendasi destinasi wisata di Bali berdasarkan minat pengguna. Dibangun menggunakan machine learning dan integrasi dengan Google Maps untuk navigasi.
+I am proud to be a **Distinction Graduate** of the **DBS Foundation Coding Camp 2025** by Dicoding in Machine Learning Engineering. I am passionate about building scalable models and exploring advanced techniques in Deep Learning and Predictive Analytics.
 
 ---
 
-## 🧰 Proyek Lainnya
+### 🛠️ Technical Expertise
 
-Berikut adalah beberapa proyek yang telah saya kerjakan:
-
-- **[NusabaliFix](https://github.com/mariouskono/nusabalifix)**  
-  Perbaikan dan pembaruan dari proyek NusaBali, dengan peningkatan fitur dan antarmuka pengguna.
-
-- **[Scraping Tempat Wisata Indonesia](https://github.com/mariouskono/scraping-tempat-wisata-indonesia)**  
-  Proyek untuk mengumpulkan data destinasi wisata di Indonesia melalui teknik web scraping.
-
-- **[Backend Nusabali](https://github.com/mariouskono/backend-nusabali)**  
-  Pengembangan backend untuk platform NusaBali, termasuk API dan integrasi dengan database.
-
-- **[Rekomendasi Destinasi Wisata di Bali](https://github.com/mariouskono/Rekomendasi-Destinasi-Wisata-di-Bali)**  
-  Analisis dan pembuatan model rekomendasi destinasi wisata di Bali menggunakan teknik machine learning.
-
-- **[Analisis Sentimen OVO](https://github.com/mariouskono/analisis-sentimen-ovo)**  
-  Analisis sentimen dari ulasan pengguna aplikasi OVO untuk memahami persepsi pengguna.
-
-- **[Notebook Income](https://github.com/mariouskono/notebook-income)**  
-  Proyek analisis data untuk mempelajari pola pendapatan dan pengeluaran.
-
-- **[Bike Rental Analisis](https://github.com/mariouskono/bike-rental-analisis)**  
-  Analisis data sewa sepeda untuk memahami tren dan pola penggunaan.
-
-- **[Volunteer Buat Aplikasi](https://github.com/mariouskono/volunteer-buat-apliaksi)**  
-  Proyek pengembangan aplikasi untuk mendukung kegiatan sukarelawan.
-
-- **[Artikel Pemrograman Web](https://github.com/mariouskono/artikelpemrogramanweb)**  
-  Kumpulan artikel dan tutorial mengenai pemrograman web.
-
-- **[Tugas Praktikum](https://github.com/mariouskono/tugaspraktikum)**  
-  Kumpulan tugas praktikum dari berbagai mata kuliah di bidang teknologi informasi.
-
----
-
-## 🛠️ Teknologi & Keahlian
-
-**Bahasa Pemrograman & Frameworks:**
-
-![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![D3.js](https://skillicons.dev/icons?i=d3js)
+**Programming & Databases:**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-%2300000f.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Data Science & Machine Learning:**
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![PyTorch](https://skillicons.dev/icons?i=pytorch) ![Scikit-learn](https://skillicons.dev/icons?i=scikit) ![Pandas](https://skillicons.dev/icons?i=pandas) ![Seaborn](https://skillicons.dev/icons?i=seaborn)
-
-**Database & Tools:**
-
-![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
-
-**Automasi & Testing:**
-
-![Selenium](https://skillicons.dev/icons?i=selenium) ![Jupyter](https://skillicons.dev/icons?i=jupyter)
+**Tools & Visualization:**
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📈 Statistik GitHub
+### 🚀 Featured Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariouskono&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+#### 🌴 [NusaBali Tourism Recommender System](https://tiny-faun-d9a27c.netlify.app/)
+*Capstone Project - Dicoding x DBS Foundation 2025*
+- Built a personalized recommendation engine for Bali's tourism destinations.
+- Integrated web scraping, machine learning models, and a responsive web interface.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mariouskono&theme=radical)
+#### 📊 [Sentiment Analysis of OVO App Reviews](https://github.com/mariouskono/analisis-sentimen-ovo)
+- Analyzed thousands of user reviews to understand customer perception using NLP techniques.
+- Achieved high performance with **Random Forest** and **Logistic Regression**.
+
+#### 🚲 [Bike Rental Analysis & Demand Prediction](https://github.com/mariouskono/bike-rental-analisis)
+- Conducted extensive EDA to identify usage patterns and customer behavior.
+- Developed a predictive model and deployed a real-time analysis dashboard using **Streamlit**.
+
+#### 🗄️ [Scalable ML Pipelines & Database Integration](https://github.com/mariouskono/Database-Deep-Learning)
+- Implemented robust data ingestion workflows using **SQL**, **NoSQL**, and **Cloud Database**.
+- Integrated deep learning pipelines with TensorFlow for scalable experimentation.
 
 ---
 
-## 📬 Hubungi Saya
+### 📈 GitHub Statistics
 
-- 📧 Email: [bertnardouskono@gmail.com](mailto:bertnardouskono@gmail.com)  
-- 🌐 Website: [portounoweb.netlify.app](https://portounoweb.netlify.app/)  
-- 👨‍💻 LinkedIn: [linkedin.com/in/bertnardomario-uskono](https://www.linkedin.com/in/bertnardomario-uskono)  
-- 📊 Kaggle: [kaggle.com/bertnardomariouskono](https://www.kaggle.com/bertnardomariouskono)
+<p align="center">
+  <a href="https://github.com/mariouskono">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mariouskono&show_icons=true&count_private=true&theme=dracula&hide_border=false" alt="Bertnardo's GitHub stats" />
+  </a>
+  <br />
+  <br />
+  <a href="https://github.com/mariouskono">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariouskono&layout=compact&theme=dracula&hide_border=false" alt="Top Languages" />
+  </a>
+</p>
 
 ---
+
+### 📫 Let's Connect!
+
+- **LinkedIn:** [linkedin.com/in/bertnardo-mario-uskono](https://www.linkedin.com/in/bertnardo-mario-uskono/)
+- **Hugging Face:** [huggingface.co/mariouskono](https://huggingface.co/mariouskono)
+- **Portfolio:** [portounoweb.netlify.app](https://portounoweb.netlify.app/)
+- **Email:** [bertnardouskono@gmail.com](mailto:bertnardouskono@gmail.com)
