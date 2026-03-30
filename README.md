@@ -1,10 +1,5 @@
 # Hi there, I'm Bertnardo Mario Uskono (Uno) 👋
 
-### 🎓 Final Year Computer Science Student @ Universitas Bhayangkara Jakarta Raya
-A dedicated and forward-thinking tech enthusiast with a strong background in **Data Science, Artificial Intelligence, and Web Development**. Starting from a Social Sciences (IPS) background in high school, I have successfully pivoted into a technical career, maintaining a **GPA of 3.85/4.00**.
-
----
-
 ## 🚀 About Me
 - 🔭 **Current Focus:** Completing my Final Project (Skripsi) on Machine Learning.
 - 💡 **Passion:** Bridging the gap between complex data and actionable insights.
