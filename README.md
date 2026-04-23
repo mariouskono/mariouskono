@@ -3,8 +3,6 @@
 ## 🚀 About Me
 - 🔭 **Current Focus:** Completing my Final Project (Skripsi) on Machine Learning.
 - 💡 **Passion:** Bridging the gap between complex data and actionable insights.
-- 🌍 **Goal:** Aspiring to be a professional Data Scientist/AI Engineer and pursuing international opportunities (Ausbildung/Master's).
-- 🤝 **Community:** Active Google Student Ambassador 2026.
 
 ---
 
