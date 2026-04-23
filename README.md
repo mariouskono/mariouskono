@@ -1,11 +1,5 @@
 # Hi there, I'm Bertnardo Mario Uskono (Uno) 👋
 
-## 🚀 About Me
-- 🔭 **Current Focus:** Completing my Final Project (Skripsi) on Machine Learning.
-- 💡 **Passion:** Bridging the gap between complex data and actionable insights.
-
----
-
 ## 🛠️ Tech Stack & Skills
 
 ### 📊 Data Science & AI
