@@ -37,16 +37,8 @@
 ---
 
 ## 🏆 Certifications & Achievements
-- **Junior Data Scientist** - LSP Ubhara Jaya (In Progress)
+- **Junior Data Scientist** - LSP Ubhara Jaya (On Progress)
 - **Expert Level Graduate** - IDCamp Data Scientist Path
-- **Google Student Ambassador 2026**
-
----
-
-## 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=mariouskono&show_icons=true&theme=radical" alt="Uno's GitHub stats" />
-</p>
 
 ---
 
@@ -54,5 +46,3 @@
 - **LinkedIn:** [linkedin.com/in/bertnardo-mario-uskono](https://www.linkedin.com/in/bertnardo-mario-uskono)
 - **Hugging Face:** [huggingface.co/mariouskono](https://huggingface.co/mariouskono)
 - **Kaggle:** [kaggle.com/bertnardomariouskono](https://kaggle.com/bertnardomariouskono)
-
-*"Empirical, Systematic, and Data-Driven."*
