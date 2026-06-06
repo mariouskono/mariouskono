@@ -37,12 +37,12 @@ const Preloader = ({ onComplete }) => {
       <div className="absolute inset-0 w-full h-full opacity-10 bg-[radial-gradient(circle_at_center,_#000_1px,_transparent_1px)] [background-size:20px_20px]"></div>
       
       <div className="relative z-10 text-center flex flex-col items-center">
-        <h1 className="text-6xl md:text-8xl font-display font-black text-slate-900 tracking-tighter uppercase mb-4">
+        <h1 className="text-5xl md:text-8xl font-display font-black text-slate-900 tracking-tighter uppercase mb-4">
           UNO<span className="text-[#f97316]">.</span>
         </h1>
         
         {/* Loading Bar */}
-        <div className="w-64 h-4 border-4 border-slate-900 bg-white relative overflow-hidden shadow-[4px_4px_0px_0px_rgba(15,23,42,1)]">
+        <div className="w-56 max-w-[85vw] h-4 border-4 border-slate-900 bg-white relative overflow-hidden shadow-[4px_4px_0px_0px_rgba(15,23,42,1)]">
           <div 
             className="absolute top-0 left-0 h-full bg-[#4ade80] transition-all duration-200"
             style={{ width: `${progress}%` }}

@@ -47,10 +47,11 @@ const About = () => {
   return (
     <section id="about" ref={containerRef} className="relative h-screen w-full bg-[#f4efe6] overflow-hidden flex items-center justify-center">
       
-      {/* Massive Background Text */}
+      {/* Massive Background Text — scale down on mobile */}
       <div 
         ref={textRef}
-        className="absolute inset-0 flex flex-col items-center justify-center w-full font-display font-black text-[18vw] leading-[0.8] tracking-tighter uppercase select-none z-0"
+        className="absolute inset-0 flex flex-col items-center justify-center w-full font-display font-black leading-[0.8] tracking-tighter uppercase select-none z-0"
+        style={{ fontSize: 'clamp(3rem, 18vw, 18vw)' }}
       >
         <div className="flex">
           {title.split(' ').map((word, wordIndex) => (
@@ -68,29 +69,30 @@ const About = () => {
         </div>
       </div>
 
-      {/* Floating Info Card */}
-      <div className="about-card relative z-10 bg-[#f4efe6] p-8 md:p-14 rounded-none shadow-[12px_12px_0px_0px_rgba(15,23,42,1)] border-4 border-slate-900 w-full max-w-2xl mx-6 md:mx-auto mt-48 md:mt-0 flex flex-col gap-8">
-        <div className="flex items-center gap-6">
-          <div className="w-20 h-20 rounded-none overflow-hidden border-4 border-slate-900 shrink-0">
+      {/* Floating Info Card — responsive padding & positioning */}
+      <div className="about-card relative z-10 bg-[#f4efe6] p-5 sm:p-8 md:p-14 rounded-none shadow-[8px_8px_0px_0px_rgba(15,23,42,1)] md:shadow-[12px_12px_0px_0px_rgba(15,23,42,1)] border-4 border-slate-900 w-[calc(100%-2rem)] max-w-2xl mx-4 md:mx-auto flex flex-col gap-5 md:gap-8">
+        {/* Profile Row */}
+        <div className="flex items-center gap-4">
+          <div className="w-14 h-14 md:w-20 md:h-20 rounded-none overflow-hidden border-4 border-slate-900 shrink-0">
             <img src={profileImg} alt={personalInfo.name} className="w-full h-full object-cover grayscale" />
           </div>
-          <div>
-            <h3 className="font-display font-black text-2xl md:text-3xl text-slate-900 leading-none uppercase">
+          <div className="min-w-0">
+            <h3 className="font-display font-black text-lg sm:text-2xl md:text-3xl text-slate-900 leading-none uppercase truncate">
               {personalInfo.name}
             </h3>
-            <p className="font-mono text-sm font-bold text-[#f97316] uppercase mt-2">Data Enthusiast</p>
+            <p className="font-mono text-xs sm:text-sm font-bold text-[#f97316] uppercase mt-1 md:mt-2">Data Enthusiast</p>
           </div>
         </div>
         
-        <div className="h-[4px] w-full bg-slate-900"></div>
+        <div className="h-[3px] md:h-[4px] w-full bg-slate-900"></div>
         
         <p className="text-slate-800 font-sans font-medium leading-relaxed text-sm md:text-base">
           {personalInfo.bio}
         </p>
         
-        <div className="flex flex-wrap gap-2 mt-2">
+        <div className="flex flex-wrap gap-2">
           {['Python', 'React', 'SQL', 'Machine Learning'].map((skill) => (
-            <span key={skill} className="px-4 py-2 bg-slate-900 text-[#f4efe6] rounded-none text-xs font-mono font-bold uppercase shadow-[2px_2px_0px_0px_#4ade80]">
+            <span key={skill} className="px-3 py-1.5 md:px-4 md:py-2 bg-slate-900 text-[#f4efe6] rounded-none text-[10px] md:text-xs font-mono font-bold uppercase shadow-[2px_2px_0px_0px_#4ade80]">
               {skill}
             </span>
           ))}

@@ -4,6 +4,14 @@
 @tailwind components;
 @tailwind utilities;
 
+/* ==========================================
+   Global Mobile Safety Rules
+   ========================================== */
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
 html {
   scroll-behavior: smooth;
   -ms-overflow-style: none;  /* IE and Edge */
@@ -14,6 +22,14 @@ body {
   @apply bg-cream-50 text-slate-900 transition-colors duration-500;
   font-family: 'DM Sans', 'Inter', sans-serif;
   overflow-x: hidden;
+  /* Prevent horizontal scroll bleed on mobile */
+  max-width: 100vw;
+}
+
+/* Prevent images and media from causing overflow */
+img, video, iframe, embed, object {
+  max-width: 100%;
+  height: auto;
 }
 
 /* Hide default cursor on desktop when using CustomCursor */
@@ -41,6 +57,14 @@ body {
 .glass-nav {
   @apply backdrop-blur-md bg-white/70 dark:bg-navy-900/80 border-b border-gray-200 dark:border-navy-700;
 }
+
+/* Section padding: compact on mobile, full on desktop */
 .section-padding {
-  @apply py-20 px-6 md:px-12 lg:px-24;
+  @apply py-12 px-4 md:py-20 md:px-12 lg:px-24;
+}
+
+/* Ensure no element causes horizontal scroll */
+section {
+  overflow-x: hidden;
+  max-width: 100%;
 }
